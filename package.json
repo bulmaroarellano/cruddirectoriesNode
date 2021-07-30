@@ -1,0 +1,19 @@
+{
+  "name": "crud_directories",
+  "version": "1.0.0",
+  "description": "eliminar direcotrios y archivos recursivos",
+  "main": "crud_node,js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bulmaroarellano/cruddirectoriesNode.git"
+  },
+  "author": "@bulmaroarellano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bulmaroarellano/cruddirectoriesNode/issues"
+  },
+  "homepage": "https://github.com/bulmaroarellano/cruddirectoriesNode#readme"
+}
